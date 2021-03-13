@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a646e89e-f89f-4600-9c25-6f4ae317bfba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BeegoDemo2/static/css/blogsheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeegoDemo2/static/css/lib/highlight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeegoDemo2/static/css/lib/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeegoDemo2/static/js/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeegoDemo2/static/js/lib/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeegoDemo2/static/js/lib/jquery.url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeegoDemo2/static/js/reload.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flogo_lambda/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flogo_stream/agg-flogo.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:/software/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1pe4pXNvYzqrBbLGKoUONCRgS8t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\project\goland\src\flogo_activity_amazons3\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\goland\src\flogo_activity_amazons3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="flogo_activity_amazons3" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="flogo_activity_amazons3" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="174" key="#Go_Modules" timestamp="1615533751210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="174" key="#Go_Modules/0.0.1280.680@0.0.1280.680" timestamp="1615533751210" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1615590269085">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1615590269085" />
+    <state x="520" y="71" key="ftp.server.browser" timestamp="1615590259635">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="520" y="71" key="ftp.server.browser/0.0.1280.680@0.0.1280.680" timestamp="1615590259635" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1615594143554">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1615594143554" />
+  </component>
+</project>

@@ -1,0 +1,62 @@
+{
+  "name": "flogo_amazons3",
+  "type": "flogo:activity",
+  "version": "0.0.1",
+  "title": "flogo_amazons3",
+  "description": "Flogo Activity for amazons3",
+  "homepage": "https://github.com/project-flogo/tree/master/examples/activity",
+  "input": [
+    {
+      "name": "action",
+      "type": "string",
+      "allowed": [
+        "download",
+        "upload",
+        "copy",
+        "delete"
+      ],
+      "required": true
+    },
+    {
+      "name": "awsAccessKeyID",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "awsSecretAccessKey",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "awsRegion",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "s3BucketName",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "s3Location",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "localLocation",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "s3NewLocation",
+      "type": "string",
+      "required": true
+    }
+  ],
+  "output": [
+    {
+      "name": "result",
+      "type": "string"
+    }
+  ]
+}
