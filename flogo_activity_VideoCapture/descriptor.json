@@ -1,0 +1,26 @@
+{
+  "name": "sample-activity",
+  "type": "flogo:activity",
+  "version": "0.0.1",
+  "title": "Sample Activity",
+  "description": "Sample Activity",
+  "homepage": "https://github.com/project-flogo/tree/master/examples/activity",
+  "input": [
+    {
+      "name": "videoSrcPath",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "frameDesPath",
+      "type": "string",
+      "required": true
+    }
+  ],
+  "output": [
+    {
+      "name": "result",
+      "type": "string"
+    }
+  ]
+}
